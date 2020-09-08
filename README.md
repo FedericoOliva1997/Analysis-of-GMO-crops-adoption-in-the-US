@@ -10,4 +10,5 @@ The adoption of cotton, on the other hand, is less pronounced than that of corn,
 
 Soybean, however, shows a diametrically opposed behavior to both: its adoption begins slightly later, however, the curve shows an exponential trend to settle towards 80-90% adoption in the fields involved in the cultivation of genetically modified seeds.
 
-
+The operation of data cleaning and a first visualization has been done using Python, Pandas and Matplotlib.
+After the processing I used PowerBi to create interactive graphs including a map of the USA filtered by state and crops.
