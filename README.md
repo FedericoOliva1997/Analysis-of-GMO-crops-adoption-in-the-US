@@ -10,9 +10,20 @@ From the analysis of the data I found that the states with the lowest adoption r
 
 A second rather curious discovery concerns the almost vertical drop in the adoption rate of genetically modified maize in 2012-2013, not to resume with an upward trend.
 
+![alt text](https://github.com/FedericoOliva1997/Analysis-of-GMO-crops-adoption-in-the-US/blob/master/Grafici/mais.png?raw=true)
+
 The adoption of cotton, on the other hand, is less pronounced than that of corn, but still falling over the years.
 
+![alt text](https://github.com/FedericoOliva1997/Analysis-of-GMO-crops-adoption-in-the-US/blob/master/Grafici/cotone.png?raw=true)
+
+
 Soybean, however, shows a diametrically opposed behavior to both: its adoption begins slightly later, however, the curve shows an exponential trend to settle towards 80-90% adoption in the fields involved in the cultivation of genetically modified seeds.
+
+![alt text](https://github.com/FedericoOliva1997/Analysis-of-GMO-crops-adoption-in-the-US/blob/master/Grafici/soia.png?raw=true)
+
+The geographical situation can be easily displayed and understood using a map built with PowerBI
+
+![alt text](https://github.com/FedericoOliva1997/Analysis-of-GMO-crops-adoption-in-the-US/blob/master/Grafici/mappa.PNG?raw=true)
 
 The operation of data cleaning and a first visualization has been done using Python, Pandas and Matplotlib.
 After the processing I used PowerBi to create interactive graphs including a map of the USA filtered by state and crops.
