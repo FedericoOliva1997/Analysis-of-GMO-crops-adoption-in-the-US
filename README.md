@@ -1,6 +1,8 @@
 # Analysis-of-GMO-crops-adoption-in-the-US
 
-GMOs are living beings that have had their genetic code changed in some way. While conventional breeding, which has been going on for centuries, involves mixing all of the genes from two different sources, producing a GMO is much more targeted. Rather than crossing two plants out in the field, they insert a gene or two into individual cells in a lab. Yet, as mentioned earlier, GM technology can also be used on microorganisms. For example, bacteria have been genetically modified to produce medicines that can cure diseases or vaccines that prevent them. A commonly used medicine that comes from a genetically modified source is insulin, which is used to treat diabetes, but there are many others.
+GMOs are living beings that have had their genetic code changed in some way. While conventional breeding, which has been going on for centuries, involves mixing all of the genes from two different sources, producing a GMO is much more targeted. Rather than crossing two plants out in the field, they insert a gene or two into individual cells in a lab. Yet, as mentioned earlier, GM technology can also be used on microorganisms. 
+
+For example, bacteria have been genetically modified to produce medicines that can cure diseases or vaccines that prevent them. A commonly used medicine that comes from a genetically modified source is insulin, which is used to treat diabetes, but there are many others.
 
 ![alt text](https://github.com/FedericoOliva1997/Analysis-of-GMO-crops-adoption-in-the-US/blob/master/Grafici/What_Are%20GMOS.jpg)
 
