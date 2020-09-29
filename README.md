@@ -23,7 +23,7 @@ Soybean, however, shows a diametrically opposed behavior to both: its adoption b
 
 ![alt text](https://github.com/FedericoOliva1997/Analysis-of-GMO-crops-adoption-in-the-US/blob/master/Grafici/soia.png?raw=true)
 
-The geographical situation can be easily displayed and understood using a map built with PowerBI
+The geographical situation can be easily displayed and understood using a map built with Tableau
 
 ![alt text](https://github.com/FedericoOliva1997/Analysis-of-GMO-crops-adoption-in-the-US/blob/master/Grafici/mappa%20USA.png)
 
