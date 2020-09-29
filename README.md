@@ -25,7 +25,7 @@ Soybean, however, shows a diametrically opposed behavior to both: its adoption b
 
 The geographical situation can be easily displayed and understood using a map built with PowerBI
 
-![alt text](https://github.com/FedericoOliva1997/Analysis-of-GMO-crops-adoption-in-the-US/blob/master/Grafici/mappa.PNG)
+![alt text](https://github.com/FedericoOliva1997/Analysis-of-GMO-crops-adoption-in-the-US/blob/master/Grafici/mappa%20USA.png)
 
 The operation of data cleaning and a first visualization has been done using Python, Pandas and Matplotlib.
 After the processing I used Tableau to create interactive graphs including a map of the USA filtered by state and crops.
